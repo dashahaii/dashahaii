@@ -1,8 +1,8 @@
 - 👋 Hi, I’m David Reese (@eseer-divad)
 - 👀 Portfolio Domain: davidreese.studio
-- 🧑‍🎓 I am a CS & Applied Mathematics Double Major at The University of Akron
+- 🧑‍🎓 I am a CS Major and Mathematics Minor @ The University of Akron
 - ✎ ✎ My coursework is in C++ & MATLAB. ✎✎
-- 🌐 Currently studying data science in my spare time.
+- 🌐 Currently studying Python & Data Structures
 - 📫 Email: dcr54@uakron.edu || Discord: ديفاد#2328
 
 <!---
