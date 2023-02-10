@@ -2,7 +2,7 @@
 - 👀 Portfolio Domain: davidreese.studio
 - 🧑‍🎓 I am a CS Major and Mathematics Minor @ The University of Akron
 - ✎ ✎ My coursework is in C++ & MATLAB. ✎✎
-- 🌐 Currently studying Python & Data Structures
+- 🌐 Currently studying Powershell Scripting
 - 📫 Email: dcr54@uakron.edu || Discord: ديفاد#2328
 
 <!---
