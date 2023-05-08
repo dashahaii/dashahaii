@@ -1,5 +1,5 @@
 # 👋 Hi, I’m David Reese (@eseer-divad)
-- 👀 Portfolio Domain (in development): davidreese.studio
+
 - 🧑‍🎓 I am a CS Major and Mathematics Minor @ The University of Akron
 - 👔 CSS System Administrator Intern @ The UA IT Department
 - ✎ My coursework is in C++ Data Structures & Software Engineering.
