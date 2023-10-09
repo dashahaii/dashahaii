@@ -15,14 +15,11 @@
   <a title="C++ Docs" href="https://en.cppreference.com/w/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
   </a>
+  <a title="Angular" href="https://angular.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  </a>
   <a title="Red Hat Enterprise Linux" href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="45" height="45"/>
-  </a>
-  <a title="Svelte" href="https://svelte.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45" height="45"/>
-  </a>
-  <a title="Amazon Web Services" href="https://aws.amazon.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
   </a>
   <a title="JavaScript" href="https://www.javascript.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
@@ -39,11 +36,11 @@
   <a title="Ansible" href="https://www.ansible.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45"/>
   </a>
-  <a title="MySQL" href="https://www.mysql.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  </a>
   <a title="MS Azure" href="https://azure.microsoft.com/en-us/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
+  </a>
+  <a title="TypeScript" href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
   </a>
   <a title="ReactJS" href="https://react.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
@@ -54,7 +51,3 @@
 <h1> About Me </h1>
 
 Hello, my name is David Reese, I'm soon to graduate with my B.S. of Computer Science. I've developed web and CLI applications which I will host the repositories for publicly here. While my academic & personal background does lie in development, I also have IT experience through my internship dealing in Cloud technologies & Systems Administration. My dual background combines to fit many roles needed from Full-Stack Web Development to DevOps.
-
-<h3>Cloud Certifications</h3>
-- Microsoft-Certified Azure Administrator Associate (Exam 8/27/23) <br>
-- AWS Cloud Practitioner (Taking Exam after AWSome Day 8/23/23)
