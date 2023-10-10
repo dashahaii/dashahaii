@@ -3,6 +3,24 @@
 
 <h1> My Programming Experience </h1>
 <p align="left">
+  <a title="My CLI Editor" href="https://neovim.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="45" height="45"/>
+  </a>
+  <a title="Bash" href="https://www.gnu.org/software/bash/manual/html_node/index.html">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>
+  </a>
+  <a title="Ansible" href="https://www.ansible.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45"/>
+  </a>
+  <a title="MS Azure" href="https://azure.microsoft.com/en-us/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
+  </a>
+  <a title="TypeScript" href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
+  </a>
+  <a title="ReactJS" href="https://react.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+  </a>
   <a title="Visual Studio" href="https://visualstudio.microsoft.com/vs/features/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>
   </a>
@@ -26,24 +44,6 @@
   </a>
   <a title="MongoDB" href="https://www.mongodb.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-  </a>
-  <a title="My CLI Editor" href="https://neovim.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="45" height="45"/>
-  </a>
-  <a title="Bash" href="https://www.gnu.org/software/bash/manual/html_node/index.html">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>
-  </a>
-  <a title="Ansible" href="https://www.ansible.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45"/>
-  </a>
-  <a title="MS Azure" href="https://azure.microsoft.com/en-us/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
-  </a>
-  <a title="TypeScript" href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
-  </a>
-  <a title="ReactJS" href="https://react.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
   </a>
   
 </p>
