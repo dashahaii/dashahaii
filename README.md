@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Full%20Stack%20Engineer%20🛠️&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=60&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?text=Let's%20Build%20Some%20Apps!🛠️&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=60&fontAlignY=45)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <h1> My Programming Experience </h1>
@@ -11,6 +11,9 @@
   </a>
   <a title="Ansible" href="https://www.ansible.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45"/>
+  </a>
+  <a title="Python" href="https://python.org/doc">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
   </a>
   <a title="MS Azure" href="https://azure.microsoft.com/en-us/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
