@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?text=Full-Stack-Engineer&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=60&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?text=Let's%20Build%20Some%20Apps!🛠️&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=60&fontAlignY=45)
+
+![header](https://capsule-render.vercel.app/api?text=Full%20Stack%20Engineer%20🛠️&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=60&fontAlignY=25)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <h1> My Programming Experience </h1>
