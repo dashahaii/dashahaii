@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Software%20Engineer%20🛠️&animation=fadeIn&type=waving&color=gray&height=200&fontSize=60&fontAlignY=37&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?text=Fullstack%20Engineer%20🛠️&animation=fadeIn&type=waving&color=gray&height=200&fontSize=60&fontAlignY=37&fontColor=ffffff)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <h1> My Favorite Tools </h1>
