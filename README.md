@@ -52,6 +52,6 @@
 #### Hello, my name is David Reese, I am a Computer Science undergraduate student and Web Designer on-campus at The University of Akron. I am in the middle of my so-far largest push into the worlds of JavaScript and web development, so there is a lot coming to these repositories in the near future.
 
 ### Current projects:
-* **plannerCLI** - a fully configurable, ANIMATED agenda CLI using the amazing `oclif` framework.
+* **Floorspaces.io** (closed-source) - floor modeling software which allows businesses to represent live data on a Unity 3d map, utilizing a Supabase/.NET/React web system managing users and company data.
 * **Damask HR** - a full-stack HR system using Angular, Django, and Microsoft SQL Server
 * **Oasis Air** - a conceptual prototype for a React Native (mobile/web) app that informs passengers (seat neighbors) about each other's on-flight accomodations & intentions before booking a flight. **(SkyHack 2023 Winning Project @ Kent State University)**
