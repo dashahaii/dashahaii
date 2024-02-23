@@ -18,14 +18,8 @@
   <a title="C++ Docs" href="https://en.cppreference.com/w/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
   </a>
-  <a title="C# Docs" href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
-  </a>
   <a title=".NET Docs" href="https://learn.microsoft.com/en-us/dotnet/core/introduction">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45"/>
-  </a>
-  <a title="Visual Studio" href="https://visualstudio.microsoft.com/vs/features/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>
   </a>
   <a title="ReactJS" href="https://react.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
@@ -38,9 +32,6 @@
   </a>
     <a title="Python" href="https://python.org/doc">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  </a>
-  <a title="JavaScript" href="https://www.javascript.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
   </a>
   <a title="MongoDB" href="https://www.mongodb.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
