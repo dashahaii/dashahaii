@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<h1> My Favorites </h1>
+<h1> My Favorites: </h1>
 <p align="left">
     <a title="Bash" href="https://www.gnu.org/software/bash/manual/html_node/index.html">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>
@@ -39,9 +39,9 @@
   </a>
 </p>
 
-<h1> About Me </h1>
+<h1> About Me: </h1>
 
 #### Hello, my name is David Reese, I am soon to graduate from The University of Akron with a B.S. in Computer Science. 
-* I have attained dynamic group project experience in full stack web development work through the CS program.
+* I have had amazing collaborative experiences on web development projects through the UA CS program!
 * The Buchtel College of Arts & Sciences employs me as a Student Web Designer until graduation.
 * Also on-campus, I have completed a Systems Administrator Internship & over a year combined in positions working for the IT department.
