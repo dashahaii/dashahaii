@@ -15,9 +15,6 @@
   <a title="Red Hat Enterprise Linux" href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="45" height="45"/>
   </a>
-  <a title="C++ Docs" href="https://en.cppreference.com/w/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-  </a>
   <a title=".NET Docs" href="https://learn.microsoft.com/en-us/dotnet/core/introduction">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45"/>
   </a>
@@ -26,6 +23,9 @@
   </a>
   <a title="TypeScript" href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
+  </a>
+  <a title="C++ Docs" href="https://en.cppreference.com/w/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
   </a>
   <a title="MS Azure" href="https://azure.microsoft.com/en-us/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
