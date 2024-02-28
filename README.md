@@ -14,11 +14,11 @@
   <a title="Red Hat Enterprise Linux" href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="45" height="45"/>
   </a>
-    <a title="Bootstrap" href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/></a>
-  <a title=".NET Docs" href="https://learn.microsoft.com/en-us/dotnet/core/introduction">
+    <a title=".NET Docs" href="https://learn.microsoft.com/en-us/dotnet/core/introduction">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45"/>
   </a>
+    <a title="Bootstrap" href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/></a>
   <a title="ReactJS" href="https://react.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
   </a>
