@@ -38,6 +38,11 @@
   </a>
 </p>
 
+<h1> Current Projects (ALL in dev): </h1>
+* Floorspaces.io - live floor modeling software where users may build floorplans resembling their office, assign datapoints, and allow users to interact with live maps of your building.
+* Damask HR - an open source HR/Payroll system template that you can download & use for your own business.
+* plannerCLI - a command line application for keeping a persistant store and interface for all your daily calendar & task organization needs. 
+
 <h1> About Me: </h1>
 
 #### Hello, my name is David Reese, I am soon to graduate from The University of Akron with a B.S. in Computer Science. 
