@@ -39,6 +39,7 @@
 </p>
 
 <h1> Current Projects (ALL in dev): </h1>
+
 * Floorspaces.io - live floor modeling software where users may build floorplans resembling their office, assign datapoints, and allow users to interact with live maps of your building.
 
 * Damask HR - an open source HR/Payroll system template that you can download & use for your own business.
