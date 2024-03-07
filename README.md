@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<h1> My Favorites: </h1>
 <p align="left">
     <a title="Bash" href="https://www.gnu.org/software/bash/manual/html_node/index.html">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>
