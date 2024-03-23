@@ -21,14 +21,14 @@
       <a title="C++ Docs" href="https://en.cppreference.com/w/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
   </a>
+      <a title="MS Azure" href="https://azure.microsoft.com/en-us/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
+  </a>
   <a title="ReactJS" href="https://react.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
   </a>
   <a title="TypeScript" href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
-  </a>
-  <a title="MS Azure" href="https://azure.microsoft.com/en-us/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
   </a>
     <a title="Python" href="https://python.org/doc">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
