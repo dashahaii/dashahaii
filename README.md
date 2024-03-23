@@ -36,6 +36,9 @@
   <a title="MongoDB" href="https://www.mongodb.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
   </a>
+    <a title="Vuejs" href="[https://www.mongodb.com/](https://vuejs.org/guide/essentials/application)">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45" height="45"/>
+  </a>
 </p>
 
 <h1> Current Projects (ALL in dev): </h1>
