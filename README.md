@@ -65,6 +65,16 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="60" height="60" alt="Vue.js Icon"/>
       </a>
     </td>
+    <td align="center" width="100">
+      <a href="https://unity.com/" title="Unity">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  width="60" height="60" alt="Vue.js Icon"/>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.docker.com/" title="Docker">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60" alt="Vue.js Icon"/>
+      </a>
+    </td>
     <!-- Add more icons as needed -->
   </tr>
 </table>
