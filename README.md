@@ -26,8 +26,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" alt=".NET Docs Icon"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" title="Bootstrap">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap Icon"/>
@@ -38,6 +36,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++ Docs Icon"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <a href="https://azure.microsoft.com/en-us/" title="MS Azure">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" alt="MS Azure Icon"/>
@@ -53,8 +53,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="ReactJS Icon"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <a href="https://www.mongodb.com/" title="MongoDB">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB Icon"/>
@@ -67,12 +65,12 @@
     </td>
     <td align="center" width="100">
       <a href="https://unity.com/" title="Unity">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  width="60" height="60" alt="Vue.js Icon"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60" height="60" alt="Unity Icon"/>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.docker.com/" title="Docker">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60" alt="Vue.js Icon"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker Icon"/>
       </a>
     </td>
   </tr>
