@@ -76,17 +76,21 @@
   </tr>
 </table>
 
-<h1> Current Projects (ALL in dev): </h1>
+# Current Projects (All in Development)
 
-* Floorspaces.io - live floor modeling software where users may build floorplans resembling their office, assign datapoints, and allow users to interact with live maps of your building.
+- **Floorspaces.io:** A live floor modeling software enabling users to create floorplans resembling their office, assign data points, and interact with live maps of their building.
+  
+- **Damask HR:** An open-source HR/Payroll system template available for download and use in your own business.
+  
+- **plannerCLI:** A command-line application designed to provide a persistent store and interface for all your daily calendar and task organization needs.
 
-* Damask HR - an open source HR/Payroll system template that you can download & use for your own business.
+# About Me
 
-* plannerCLI - a command line application for keeping a persistant store and interface for all your daily calendar & task organization needs. 
+#### Greetings! I'm David Reese, a soon-to-be graduate from The University of Akron with a Bachelor of Science in Computer Science. 
 
-<h1> About Me: </h1>
+- I've had the privilege of engaging in enriching collaborative experiences on various web development projects as part of the UA CS program.
+  
+- Currently, I work as a Student Web Designer within the Buchtel College of Arts & Sciences until my graduation.
+  
+- Additionally, I've gained valuable experience through an on-campus Systems Administrator Internship and over a year of combined roles within the IT department.
 
-#### Hello, my name is David Reese, I am soon to graduate from The University of Akron with a B.S. in Computer Science. 
-* I have had amazing collaborative experiences on web development projects through the UA CS program!
-* The Buchtel College of Arts & Sciences employs me as a Student Web Designer until graduation.
-* Also on-campus, I have completed a Systems Administrator Internship & over a year combined in positions working for the IT department.
