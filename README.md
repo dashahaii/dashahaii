@@ -8,7 +8,7 @@
     </td>
       <td align="center" width="100">
       <a href="https://azure.microsoft.com/en-us/" title="MS Azure">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" alt="MS Azure Icon"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55" alt="MS Azure Icon"/>
       </a>
     </td>
     <td align="center" width="100">
@@ -60,7 +60,7 @@
     </td>
     <td align="center" width="100">
       <a href="https://vuejs.org/guide/essentials/application" title="Vue.js">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="60" height="60" alt="Vue.js Icon"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="55" height="55" alt="Vue.js Icon"/>
       </a>
     </td>
     <td align="center" width="100">
