@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <a href="https://www.gnu.org/software/bash/manual/html_node/index.html" title="Bash">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" alt="Bash Icon"/>
+      <td align="center" width="100">
+      <a href="https://azure.microsoft.com/en-us/" title="MS Azure">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" alt="MS Azure Icon"/>
       </a>
     </td>
     <td align="center" width="100">
@@ -39,8 +39,8 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <a href="https://azure.microsoft.com/en-us/" title="MS Azure">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" alt="MS Azure Icon"/>
+      <a href="https://www.gnu.org/software/bash/manual/html_node/index.html" title="Bash">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" alt="Bash Icon"/>
       </a>
     </td>
     <td align="center" width="100">
