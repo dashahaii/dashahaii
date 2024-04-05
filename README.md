@@ -1,4 +1,6 @@
 
+    
+![1cityscape](5cityscape.png)
   <div style="font-family: 'VT323', monospace; align-items: center; max-width: 700px; margin: 0 auto;">
     <hr>
     <table style="max-width: 700px; margin: 0 auto;">
@@ -23,8 +25,6 @@
     </table>
   </div>
   <hr>
-  
-![1cityscape](5cityscape.png)
 
 ## Introduction
 I am a student of computer science, mathematics, and physics. I am foremost a developer, and enjoy programming to solve people's problems.
