@@ -2,7 +2,6 @@
     
 ![1cityscape](5cityscape.png)
   <div style="font-family: 'VT323', monospace; align-items: center; max-width: 700px; margin: 0 auto;">
-    <hr>
     <table style="max-width: 700px; margin: 0 auto;">
       <tr>
         <td align="center" width="120"><a href="https://www.ansible.com/" title="Ansible"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="width: 60px; height: 60px;" alt="Ansible Icon"/></a></td>
@@ -24,9 +23,8 @@
       </tr>
     </table>
   </div>
-  <hr>
   
-## I am a student of computer science, mathematics, and physics. I am foremost a developer, and enjoy programming to solve people's problems.
+# I am a student of computer science, mathematics, and physics. I am foremost a developer, and enjoy programming to solve people's problems.
 
 ![2cityscape](4cityscape.png)
 
