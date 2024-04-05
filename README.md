@@ -25,7 +25,7 @@
     </table>
   </div>
   <hr>
-  <div style="max-width: 700px; margin: 0 auto;">
+   <div style="max-width: 700px; margin: 0 auto; font-family: 'VT323', monospace;">
     <img src="5cityscape.png" style="max-width: 700px; display: block; margin: 0 auto;" alt="1cityscape">
     <p>I am a student of computer science, mathematics, and physics. I am foremost a developer, and enjoy programming to solve people's problems.</p>
     <img src="4cityscape.png" style="max-width: 700px; display: block; margin: 0 auto;" alt="2cityscape">
