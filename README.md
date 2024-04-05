@@ -5,9 +5,7 @@
 </p>
 
 ### Technical Experience
-While working through my degree with collaborative projects at the University of Akron, I have also been employed on-campus in various student roles in IT repair, systems administration, helpdesk administration, and - now currently - I work as a web designer for the Buchtel College of Arts & Sciences.
-
-I have experience helping manage and contribute to the semester-long projects we get @UA through the CS program, which has made me what I am today as a developer. This has honed my skills in and focused me toward a degree engineering fullstack web applications; everything from wireframes to the deployment pipeline is my new trade and passion in life, and I am excited to move onto the next stage of life graduating soon in December (2024.)
+While working through my degree with collaborative projects at the University of Akron, I have also been employed on-campus in various student roles in IT repair, systems administration, helpdesk administration, and - now currently - I work as a web designer for the Buchtel College of Arts & Sciences. I have experience helping manage and contribute to the semester-long projects we get @UA through the CS program, which has made me what I am today as a developer. I graduate December 2024.
 
 <hr>
 
