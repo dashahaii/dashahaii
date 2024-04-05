@@ -1,7 +1,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
-  <div style="align-items: center; max-width: 700px; margin: 0 auto;">
+  <div style="font-family: 'VT323', monospace; align-items: center; max-width: 700px; margin: 0 auto;">
     <hr>
     <table style="max-width: 700px; margin: 0 auto;">
       <tr>
