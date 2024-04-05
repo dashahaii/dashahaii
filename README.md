@@ -76,21 +76,9 @@
   </tr>
 </table>
 
-# Current Projects (All in Development)
+## Hello there,
 
-- **Floorspaces.io:** A live floor modeling software enabling users to create floorplans resembling their office, assign data points, and interact with live maps of their building.
-  
-- **Damask HR:** An open-source HR/Payroll system template available for download and use in your own business.
-  
-- **plannerCLI:** A command-line application designed to provide a persistent store and interface for all your daily calendar and task organization needs.
+My name is David Reese, I am a student of computer science, mathematics, and physics. I am first and foremost a developer, and enjoy programming to solve people's problems. While working through my degree with collaborative programmming projects at the University of Akron, I have also been employed on-campus in various student roles in IT repair, systems administration, helpdesk administration, and - now currently - I work as a web designer for the Buchtel College of Arts & Sciences.
 
-# About Me
 
-#### Greetings! I'm David Reese, a soon-to-be graduate from The University of Akron with a Bachelor of Science in Computer Science. 
-
-- I've had the privilege of engaging in enriching collaborative experiences on various web development projects as part of the UA CS program.
-  
-- Currently, I work as a Student Web Designer within the Buchtel College of Arts & Sciences until my graduation.
-  
-- Additionally, I've gained valuable experience through an on-campus Systems Administrator Internship and over a year of combined roles within the IT department.
 
