@@ -1,4 +1,4 @@
-  <div style="max-width: 700px; margin: 0 auto;">
+  <div style="align-items: center; max-width: 700px; margin: 0 auto;">
     <hr>
     <table style="max-width: 700px; margin: 0 auto;">
       <tr>
