@@ -37,12 +37,14 @@ While working through my degree with collaborative projects at the University of
 I have experience helping manage and contribute to the semester-long projects we get @UA through the CS program, which has made me what I am today as a developer. This has honed my skills in and focused me toward a degree engineering fullstack web applications; everything from wireframes to the deployment pipeline is my new trade and passion in life, and I am excited to move onto the next stage of life graduating soon in December (2024.)
 
 <hr>
+
 ![3cityscape](3cityscape.png)
 
 ### Software Engineering Internship
 I have accepted an internship this summer with a startup company, using Vue/Koa/.NET/+ in the stack, deployed on Azure following a microservice architecture. I look to stay with the company if possible in the future, but the value of working on production software in this stack, for a product I believe in, is unmatched. This will make my second internship after completing one in the UA IT department as a SysAdmin. More details on the internship will come after I begin the position in May.
 
 <hr>
+
 ![4cityscape](2cityscape.png)
 
 ### Capstone Project, Current Project
