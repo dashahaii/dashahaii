@@ -1,8 +1,8 @@
 ---
-    
-![1cityscape](5cityscape.png)
   
-### I am a student of computer science, mathematics, and physics. I am foremost a developer, and enjoy programming to solve people's problems. Here are some of my favorite tools:
+### I am a student of computer science, mathematics, and physics. I am foremost a developer, and enjoy programming to solve people's problems. 
+
+### Here are some of my favorite tools:
 
   <div style="font-family: 'VT323', monospace; align-items: center; max-width: 700px; margin: 0 auto;">
     <table style="max-width: 700px; margin: 0 auto;">
