@@ -1,4 +1,5 @@
   <div style="max-width: 700px; margin: 0 auto;">
+    <hr>
     <table style="max-width: 700px; margin: 0 auto;">
       <tr>
         <td><a href="https://www.ansible.com/" title="Ansible"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="width: 60px; height: 60px;" alt="Ansible Icon"/></a></td>
@@ -20,6 +21,7 @@
       </tr>
     </table>
   </div>
+  <hr>
   <div style="max-width: 700px; margin: 0 auto;">
     <img src="5cityscape.png" style="max-width: 700px; display: block; margin: 0 auto;" alt="1cityscape">
     <p>I am a student of computer science, mathematics, and physics. I am foremost a developer, and enjoy programming to solve people's problems.</p>
