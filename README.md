@@ -53,5 +53,3 @@ My class partner Nicholas Limbach and I our working on our capstone project, whi
 ![5cityscape](1cityscape.png)
 
 <hr>
-
----
