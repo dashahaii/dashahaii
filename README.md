@@ -1,7 +1,7 @@
   <div style="max-width: 700px; margin: 0 auto;">
     <table style="max-width: 700px; margin: 0 auto;">
       <tr>
-        <td style="width: 100px;"><a href="https://www.ansible.com/" title="Ansible"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="width: 60px; height: 60px;" alt="Ansible Icon"/></a></td>
+        <td><a href="https://www.ansible.com/" title="Ansible"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="width: 60px; height: 60px;" alt="Ansible Icon"/></a></td>
         <td style="width: 100px;"><a href="https://azure.microsoft.com/en-us/" title="MS Azure"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="width: 60px; height: 60px;" alt="MS Azure Icon"/></a></td>
         <td style="width: 100px;"><a href="https://angular.io/" title="Angular"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="width: 60px; height: 60px;" alt="Angular Icon"/></a></td>
         <td style="width: 100px;"><a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" title="Red Hat Enterprise Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" style="width: 60px; height: 60px;" alt="Red Hat Enterprise Linux Icon"/></a></td>
