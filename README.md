@@ -1,5 +1,4 @@
   <div style="max-width: 700px; margin: 0 auto;">
-    <img src="6cityscape.png" style="max-width: 700px; display: block; margin: 0 auto;" alt="2cityscape">
     <table style="max-width: 700px; margin: 0 auto;">
       <tr>
         <td><a href="https://www.ansible.com/" title="Ansible"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="width: 60px; height: 60px;" alt="Ansible Icon"/></a></td>
