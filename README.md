@@ -1,6 +1,6 @@
 ---
   
-### I am a student of computer science, mathematics, and physics. I am foremost a developer, and enjoy programming to solve people's problems. 
+### I am a student of computer science, mathematics, and physics.
 
 ### Here are some of my favorite tools:
 
