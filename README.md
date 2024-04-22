@@ -9,7 +9,7 @@ While working on collaborative technical projects at the University of Akron, I 
 
 <hr>
 
-### 💼 Software Engineering Internship
+### 💼 Software Engineering Intern
 I have accepted an internship this summer with Hive Networks, a healthcare startup looking to increase patient outcomes through cutting-edge software. This will make me a better fullstack developer as my tasks will revolve around everything related to the software: Quasar/Vue/Koa/SQL/.NET/Azure+. This will make my second internship after completing one in the UA IT department as a Systems Administrator.
 
 <hr>
