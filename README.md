@@ -1,8 +1,10 @@
 ---
 
-<p align="center">
-  <img src="2cityscape.png" />
-</p>
+##
+<div align="center" style="display: inline_block">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=eseer-divad&show_icons=true&theme=radical">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseer-divad&layout=donut&theme=radical">
+</div>
 
 ### 🧑‍💼 Technical Experience
 While working on collaborative technical projects at the University of Akron, I have also been employed on-campus in various part-time roles as an IT analyst, systems administrator, and - now currently - I work as a web designer for the Buchtel College of Arts & Sciences. This experience has made me what I am today as a developer. I graduate December 2024.
