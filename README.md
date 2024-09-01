@@ -1,12 +1,12 @@
 ### 🧑‍💼 Technical Experience
 
-My first ever techincal position was for the IT department at the University of Akron (UA). The bar was low and telling them I helped my mom's greenhousing business with the website & emails (GoDaddy) actually impressed them, which in retrospect was perfet on my resume besides all of the retail/food service jobs I miserably held in my teenage years.
-
-Working on the computer, doing knowledge work of some capacity, was all I ever wanted to do. I found myself in the Computer Science program learning to program C++, while the IT Department was sending me the way of hardware repair and technical support. It turned out talking people's ears off was more my thing than handling a screwdriver, while all the other repair students wanted to just fix computers all day. (Separation of labor etc.)
-
-My evolution after that was rather quick, after spending a semester in hardware repair, a semester on helpdesk phones, I applied and was accepted for a Systems Administrator Intern position in UA's IT office. I'd say this job was way more complex than anything I had done previously, and it was very educational, but I was very much still just a sophomore in college. After the internship I returned for a few months to the help desk phones, then took on something a bit more closer to my degree: web design. In pure HTML & style attributes, along with bootstrap 4 (no separate stylesheets) for 2 semesters I worked as s web designer on the other side of campus for the College of Arts & Sciences. (We used a system called dotCMS.)
-
-Too short after I started the web design position, which was a part-time role advertised for a creative CS student, I was accepted to intern at Hive Networks Inc., which while my campus jobs were excellent, my bosses were excited for me to get this internship and to dive much deeper into applications development professionally.
+* University of Akron (UA), Computer Science - Management Focus
+* Classes in Internet Systems, Data Management, DevOps, Algorithms, Computer Graphics, and more!
+* 3 (4 pending) collaborative term web app projects in teams of 2-4. (React, Angular, Django, .NET, SQL, MongoDB)
+* Hive Networks Inc. - Software Engineer Intern - May to August '24
+* UA College of Arts & Sciences - Web Designer/Editor - September '23 to May '24
+* UA Department of IT - Systems Administrator Intern - May to August '23
+* UA Department of IT - Technical Support Analyst - September '22 to May '23, August - September '23 (After internship.)
 
 
 ### 💼 Software Engineering Intern
