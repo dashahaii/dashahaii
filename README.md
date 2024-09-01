@@ -4,6 +4,8 @@
 * Classes in Internet Systems, Data Management, DevOps, Algorithms, Computer Graphics, and more!
 * 3 (4 pending) collaborative term web app projects in teams of 2-4. (React, Angular, Django, .NET, SQL, MongoDB)
 
+<br>
+
 * Hive Networks Inc. - Software Engineer Intern - May to August '24
 * UA College of Arts & Sciences - Web Designer/Editor - September '23 to May '24
 * UA Department of IT - Systems Administrator Intern - May to August '23
