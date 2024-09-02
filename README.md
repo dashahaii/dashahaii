@@ -17,7 +17,7 @@
       <td align="center" width="116"><a href="https://react.dev/" title="ReactJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 60px; height: 60px;" alt="ReactJS Icon"/></a></td>
       <td align="center" width="116"><a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="width: 60px; height: 60px;" alt="MongoDB Icon"/></a></td>
       <td align="center" width="116"><a href="https://vuejs.org/guide/essentials/application" title="Vue.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="width: 60px; height: 60px;" alt="Vue.js Icon"/></a></td>
-      <td align="center" width="116"><a href="https://azure.microsoft.com/en-us/products/azure-sql/database" title="Azure SQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /></a></td>
+      <td align="center" width="116"><a href="https://azure.microsoft.com/en-us/products/azure-sql/database" title="Azure SQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="width: 60px; height: 60px;" /></a></td>
       <td align="center" width="116"><a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 60px; height: 60px;" alt="Docker Icon"/></a></td>
     </tr>
   </table>
