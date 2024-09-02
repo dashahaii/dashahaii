@@ -15,10 +15,10 @@
       <td align="center" width="116"><a href="https://nextjs.org/" title="Nextjs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="width: 60px; height: 60px;" alt="Nextjs Icon"/></a></td>
       <td align="center" width="116"><a href="https://azure.microsoft.com/en-us/products/azure-sql/database" title="Azure SQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="width: 60px; height: 60px;" /></a></td>
       <td align="center" width="116"><a href="https://react.dev/" title="ReactJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 60px; height: 60px;" alt="ReactJS Icon"/></a></td>
+      <td align="center" width="116"><a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 60px; height: 60px;" alt="TypeScript Icon"/></a></td>
       <td align="center" width="116"><a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="width: 60px; height: 60px;" alt="MongoDB Icon"/></a></td>
       <td align="center" width="116"><a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" title="Red Hat Enterprise Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" style="width: 60px; height: 60px;" alt="Red Hat Enterprise Linux Icon"/></a></td>
       <td align="center" width="116"><a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" title="Bootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="width: 60px; height: 60px;" alt="Bootstrap Icon"/></a></td>
-      <td align="center" width="116"><a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 60px; height: 60px;" alt="TypeScript Icon"/></a></td>
     </tr>
   </table>
 </div>
