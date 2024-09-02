@@ -12,7 +12,8 @@
       <td align="center" width="116"><a href="https://en.cppreference.com/w/" title="C++ Docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 60px; height: 60px;" alt="C++ Docs Icon"/></a></td>
     </tr>
     <tr>
-      <td align="center" width="116"><a href="https://www.gnu.org/software/bash/manual/html_node/index.html" title="Bash"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width: 60px; height: 60px;" alt="Bash Icon"/></a></td>
+      <td align="center" width="116"><a href="https://www.gnu.org/software/bash/manual/html_node/index.html" title="Bash">
+      <td align="center" width="116"><a href="https://nextjs.org/" title="Nextjs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="width: 60px; height: 60px;" alt="Bash Icon"/></a></td>
       <td align="center" width="116"><a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 60px; height: 60px;" alt="TypeScript Icon"/></a></td>
       <td align="center" width="116"><a href="https://react.dev/" title="ReactJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 60px; height: 60px;" alt="ReactJS Icon"/></a></td>
       <td align="center" width="116"><a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="width: 60px; height: 60px;" alt="MongoDB Icon"/></a></td>
