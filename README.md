@@ -1,4 +1,4 @@
-## Technical Experience
+## Development, Design & IT Experience
 
 #### 📚 Academic:
 
