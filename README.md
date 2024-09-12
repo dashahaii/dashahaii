@@ -34,11 +34,11 @@
 
 #### 💼 Professional:
 
-* UA College of Arts & Sciences - Sr. Student Web Designer - September '23 to May '24
-* Hive Networks Inc. - Software Engineer Intern - May to August '24
-* UA College of Arts & Sciences - Student Web Designer/Editor - September '23 to May '24
-* UA Department of IT - Systems Administrator Intern - May to August '23
-* UA Department of IT - Student Technical Support Analyst - September '22 to May '23, August - September '23 (After internship.)
+* UA College of Arts & Sciences - **Sr. Student Web Designer** - September '23 to May '24
+* Hive Networks Inc. - **Software Engineer Intern** - May to August '24
+* UA College of Arts & Sciences - **Student Web Designer/Editor** - September '23 to May '24
+* UA Department of IT - **Systems Administrator Intern** - May to August '23
+* UA Department of IT - **Student Technical Support Analyst** - September '22 to May '23, August - September '23 (After internship.)
 
 
 ##  Looking for Work: Transitioning to Software Engineer ~~Intern~~
