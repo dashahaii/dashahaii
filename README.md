@@ -40,7 +40,5 @@
 * UA Department of IT - **Systems Administrator Intern** - May to August '23
 * UA Department of IT - **Student Technical Support Analyst** - September '22 to May '23, August - September '23 (After internship.)
 
-In my last semester, Fall 2024, I am actively seeking roles to match my professional experience. I felt passionate about the products we made, I learned a lot about Vue & TypeScript, and I met some great people. I am prepared to be a full-time developer for YOUR web apps, but in the meantime I will be applying to all development, IT, and design positions both internship and full-time.
-
--- Thank you for reading this :)
+-- Thank you for reading this, hello! :)
 
