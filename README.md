@@ -29,7 +29,7 @@
 
 * University of Akron (UA), Computer Science - Management Focus
 * Classes in Internet Systems, Data Management, DevOps, Algorithms, Computer Graphics, and more!
-* Three collaborative term (3 month+) web app projects in teams of 2-4. Aside from half the table above being used professionally, the rest (and more) comes from these foundational projects.
+* Three collaborative term (3 month+) web app projects in teams of 2-4. Aside from half the tools table above being used professionally, the rest (and more) comes from these foundational projects.
 
 
 #### 💼 Professional:
