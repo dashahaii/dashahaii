@@ -29,7 +29,7 @@
 
 * University of Akron (UA), Computer Science - Management Focus
 * Classes in Internet Systems, Data Management, DevOps, Algorithms, Computer Graphics, and more!
-* 3 (4 pending) collaborative term web app projects in teams of 2-4. (React, Angular, Django, .NET, SQL, MongoDB)
+* Three collaborative term web app projects in teams of 2-4. (All technologies in the table above, aside from professional experience)
 
 
 #### 💼 Professional:
