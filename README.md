@@ -23,8 +23,6 @@
   </table>
 </div>
 
-**[Click HERE to view my Resume!!](https://docs.google.com/document/d/1W7yjXCffkpNiKfqEMZJ95alzHxGaM4_l/edit?usp=sharing&ouid=106151494902453146470&rtpof=true&sd=true)**
-
 
 ## Development, Design & IT Experience
 
