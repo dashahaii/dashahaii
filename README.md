@@ -21,25 +21,19 @@
       <td align="center" width="116"><a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 60px; height: 60px;" alt="Docker Icon"/></a></td>
     </tr>
   </table>
+
+Avatar credit: offscriptstore.com
+
 </div>
 
 
-## Development, Design & IT Experience
+## What I am working on
 
-#### 📚 Academic:
+In private repositories I have been building software I've called Capybara. It is a social networking platform that matches users together in digital spaces based on their online watch activity. Capybara only connects people, it is not a communication or media app, it excels in matching people based on common interests such as watching the same YouTube creator, for instance.
 
-* __**University of Akron (UA),**__ Computer Science - Management Focus
-* Classes in Internet Systems, Data Management, DevOps, Algorithms, Computer Graphics, and more!
-* Three collaborative term (3 month+) web app projects in teams of 2-4. Aside from half the tools table above being used professionally, the rest (and more) comes from these foundational projects.
+Capybara itself will have a 3D interactive space for each community, where profile cards may be customized and navigated through on a global map. (We do not take your location, you may place yourself anywhere.) Development consists of a web application frontend with React + Vite, a mobile app with React Native, a middleware with Koa.js, as well as Vercel & Supabase.
 
-
-#### 💼 Professional:
-
-* UA College of Arts & Sciences - **Sr. Student Web Designer** - PRESENT
-* Hive Networks Inc. - **Software Engineer Intern** - May to August '24
-* UA College of Arts & Sciences - **Student Web Designer/Editor** - September '23 to May '24
-* UA Department of IT - **Systems Administrator Intern** - May to August '23
-* UA Department of IT - **Student Technical Support Analyst** - September '22 to May '23, August - September '23 (After internship.)
+I strive to create a well-tested secure software system that is financially equitable to its users, keeps only the absolutely necessary data, and protects that data securely.
 
 -- Thank you for reading this, hello! :)
 
