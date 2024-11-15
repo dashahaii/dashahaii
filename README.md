@@ -3,7 +3,7 @@
 <div style="font-family: 'VT323', monospace; align-items: center; max-width: 700px; margin: 0 auto;">
   <table style="max-width: 700px; margin: 0 auto;">
     <tr>
-      <td align="center" width="116"><a href="https://react.dev/" title="Reactjs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Icon"/></a></td>
+      <td align="center" width="116"><a href="https://react.dev/" title="Reactjs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Icon" style="width: 60px; height: 60px;" /></a></td>
       <td align="center" width="116"><a href="https://azure.microsoft.com/en-us/products/azure-sql/database" title="Azure SQL" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="width: 60px; height: 60px;" /></a></td>
       <td align="center" width="116"><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 60px; height: 60px;" alt="TypeScript Icon"/></a></td>
       <td align="center" width="116"><a href="https://www.mongodb.com/" title="MongoDB" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="width: 60px; height: 60px;" alt="MongoDB Icon"/></a></td>
