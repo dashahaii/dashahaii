@@ -17,7 +17,7 @@
     </tr>
   </table>
 
-Avatar credit: ![offscriptstore.com](offscriptstore.com)
+Avatar credit: [offscriptstore.com](offscriptstore.com)
 
 </div>
 
