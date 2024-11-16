@@ -32,7 +32,7 @@ Capybara itself will have a 3D interactive space for each community, where profi
 
 I strive to create a well-tested secure software system that is financially equitable to its users, keeps only the absolutely necessary data, and protects that data securely. I've been building out the start of Capybara for a short while now, but I am stopping to create a small prototype for my college class to showcase connecting users in networks via their YouTube API data.
 
-Essentially for that small prototype, which I will call Capybara Social, the matching process will feed into a swipeable UI similar to dating apps. This will be a React Native app.
+Essentially for that small prototype, which I will call Capybara Social, the matching process will feed into a swipeable UI similar to dating apps. This will be a React Native app. I will also host code publically for a browser extension which will help grow Capybara network invites in time.
 
 -- Thank you for reading this, hello! :)
 
