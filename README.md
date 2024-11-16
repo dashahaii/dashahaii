@@ -8,7 +8,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" style="width: 60px; height: 60px;" /></a></td>
       <td align="center" width="116"><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 60px; height: 60px;" alt="TypeScript Icon"/></a></td>
       <td align="center" width="116"><a href="https://www.mongodb.com/" title="MongoDB" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="width: 60px; height: 60px;" alt="MongoDB Icon"/></a></td>
-      <td align="center" width="116"><a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" title="Red Hat Enterprise Linux" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" style="width: 60px; height: 60px;" alt="Red Hat Enterprise Linux Icon"/></a></td>
+      <td align="center" width="116"><a href="https://supabase.com/" title="Supabase" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" style="width: 60px; height: 60px;" alt="Supabase Icon"/></a></td>
       <td align="center" width="116"><a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" title="Bootstrap" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="width: 60px; height: 60px;" alt="Bootstrap Icon"/></a></td>
       <td align="center" width="116"><a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 60px; height: 60px;" alt="Docker Icon"/></a></td>
     </tr>
