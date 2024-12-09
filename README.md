@@ -3,6 +3,8 @@
 <div style="font-family: 'VT323', monospace; align-items: center; max-width: 700px; margin: 0 auto;">
   <table style="max-width: 700px; margin: 0 auto;">
     <tr>
+            <td align="center" width="116"><a href="https://dotnet.microsoft.com/en-us/" title="Dotnet" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="width: 60px; height: 60px;" alt=".NET Icon" /></a></td>
             <td align="center" width="116"><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 60px; height: 60px;" alt="TypeScript Icon"/></a></td>
       <td align="center" width="116"><a href="https://mui.com/" title="Material UI" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" style="width: 60px; height: 60px;" /></a></td>
@@ -12,8 +14,6 @@
       <td align="center" width="116"><a href="https://koajs.com/" title="Node" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="width: 60px; height: 60px;" alt="Node Icon"/></a></td>
                   <td align="center" width="116"><a href="https://www.mongodb.com/" title="MongoDB" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="width: 60px; height: 60px;" alt="MongoDB Icon"/></a></td>
-      <td align="center" width="116"><a href="https://dotnet.microsoft.com/en-us/" title="Dotnet" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="width: 60px; height: 60px;" alt=".NET Icon" /></a></td>
     </tr>
   </table>
 
