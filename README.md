@@ -1,4 +1,4 @@
-Repositories contain various projects I worked on throughout the University of Akron Computer Science Program. Grad. December 2024.
+Repositories contain various projects I worked on throughout the University of Akron Computer Science Program. 
 
 ## What I am currently working on
 
