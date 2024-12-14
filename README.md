@@ -1,4 +1,6 @@
-## What I am working on
+Repositories contain various projects I worked on throughout the University of Akron Computer Science Program. Grad. December 2024.
+
+## What I am currently working on
 
 In private repositories I have been building software I've called Capybara. It is a social networking platform that matches users together in digital spaces based on their online watch activity. Capybara only connects people, it is not a communication or media app, it excels in matching people based on common interests such as watching the same YouTube creator, for instance. Profile cards host various links to other platforms such as Twitter, Facebook, or any way you'd like to communicate with new users. 
 
