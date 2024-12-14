@@ -4,10 +4,10 @@ In private repositories I have been building software I've called Capybara. It i
 
 #### Capybara consists of:
 
-* A React + Vite + Material UI + R3F frontend for users, globe presentation similar to a map.
-* A React Native Paper + Expo frontend for mobile devices.
-* A C#/.NET API to facilitate core logic and data processing.
-* A SQL instance to contain the data.
+* React + Vite + Material UI + R3F frontend for users, globe presentation similar to a map.
+* React Native Paper + Expo frontend for mobile devices.
+* C#/.NET API to facilitate core logic and data processing.
+* SQL instance to contain the data.
 
 Capybara is named as it is because I see it as a universal friend instead of a competitor to social media platforms (or animals in this metaphor.) This may imply Capybara itself is a social media app, and maybe it is in some technical way, but I prefer to call it a "social networking" app. My chief aim is to give a tool to the world that connects people and starts organic connections where we find ourselves continually isolated with the social media landscape as it stands.
 
